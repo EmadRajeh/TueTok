@@ -3,11 +3,8 @@ TueTok aims to be the default cross-platform mobile application for Prince Sulta
 
 # Features:
 Posting books/items on TueTok for sale.
-
 Creating a tutor post to offer your services.
-
 Check other books/items posts and tutor posts.
-
 Chat with other students.
 
 # Needed tool:
