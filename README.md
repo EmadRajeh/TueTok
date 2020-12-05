@@ -2,10 +2,10 @@
 TueTok aims to be the default cross-platform mobile application for Prince Sultan University students to acquire university supplements and services in the university environment, such as books, tools and tutoring. It also aims to allow the students to provide/receive services such as tutoring from other students based on their needs.
 
 # Features:
-Posting books/items on TueTok for sale.
-Creating a tutor post to offer your services.
-Check other books/items posts and tutor posts.
-Chat with other students.
+1. Posting books/items on TueTok for sale.
+2. Creating a tutor post to offer your services.
+3. Check other books/items posts and tutor posts.
+4. Chat with other students.
 
 # Needed tool:
 Integrated development environment (IDE) such as Android Studio or Visual Studio Code.
