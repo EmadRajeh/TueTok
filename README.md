@@ -8,25 +8,25 @@ TueTok aims to be the default cross-platform mobile application for Prince Sulta
 4. Chat with other students.
 
 # Needed tool:
-Integrated development environment (IDE) such as Android Studio or Visual Studio Code.
-Install Flutter from: https://flutter.dev/
-Download Dart SDK from: https://dart.dev/get-dart
-For IOS, make sure to install cocoapods from here: https://cocoapods.org/
+1. Integrated development environment (IDE) such as Android Studio or Visual Studio Code.
+2. Install Flutter from: https://flutter.dev/
+3. Download Dart SDK from: https://dart.dev/get-dart
+4. For IOS, make sure to install cocoapods from here: https://cocoapods.org/
 
 # Getting started:
-Clone the repository
-Move to the desired folder using the command: cd /TueTok
-Add Firebase in your android and ios project here: https://firebase.google.com/
-Add Cloud Firestore to your Firebase in your android and ios project.
-Add  Firebase Authentication to your Firebase in your android and ios project.
-Add Firebase Storage to your Firebase in your android and ios project.
-Deploy "Cloud Function" on firebase.
-Choose a device, either an emulator for Android or a Simulator for IOS.
-Run the app.
+1. Clone the repository
+2. Move to the desired folder using the command: cd /TueTok
+3. Add Firebase in your android and ios project here: https://firebase.google.com/
+4. Add Cloud Firestore to your Firebase in your android and ios project.
+5. Add  Firebase Authentication to your Firebase in your android and ios project.
+6. Add Firebase Storage to your Firebase in your android and ios project.
+7. Deploy "Cloud Function" on firebase.
+8. Choose a device, either an emulator for Android or a Simulator for IOS.
+9. Run the app.
 
 # Basic requirements:
-Basic knowledge of programming is mandatory
-The ability to use Git and GitHub
-Some knowledge of Dart and how to use Flutter is preferable for a head start.
-UI/UX Design skills.
-Some idea about Firebase or willingness to learn it
+1. Basic knowledge of programming is mandatory
+2. The ability to use Git and GitHub
+3. Some knowledge of Dart and how to use Flutter is preferable for a head start.
+4. UI/UX Design skills.
+5. Some idea about Firebase or willingness to learn it
